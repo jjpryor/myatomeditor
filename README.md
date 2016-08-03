@@ -9,6 +9,7 @@ For other OSs, you can also get it directly from: https://atom.io
 ### For RHEL7 / Cento7:
 ```shell
 yum install https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
+cd /etc/yum.repos.d/
 wget https://copr.fedorainfracloud.org/coprs/mosquito/atom/repo/epel-7/mosquito-atom-epel-7.repo
 yum install atom
 ```
