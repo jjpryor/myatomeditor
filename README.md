@@ -1,4 +1,8 @@
 # My Atom Editor settings
+
+In the screenshot below, atom is using `puppet-lint` and `puppet parser validate`
+to indicate errors and warnings in sample pupept code.
+
 ![Image of Shell](https://github.com/jjpryor/myatomeditor/raw/master/atomsyntaxcheck.png)
 ## Installation
 For Red Hat Family of OSs we will get the RPM for the Atom editor from a COPR:
