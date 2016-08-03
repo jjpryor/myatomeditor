@@ -20,7 +20,9 @@ dnf copr enable mosquito/atom
 dnf install atom
 ```
 
-## Community Packages
+----------
+
+## Community Packages (add-ons/plugins) that make Atom awesome
 ### My Must-Have for Puppet coding:
 + file-icons: https://atom.io/packages/file-icons
 + git-log: https://atom.io/packages/git-log
@@ -34,15 +36,15 @@ dnf install atom
 + minimap: https://atom.io/packages/minimap
 
 
-## Nice to have:
+### Nice to have for puppet &amp; ruby:
 + autocomplete-ruby:https://atom.io/packages/autocomplete-ruby
 + erb-helper: https://atom.io/packages/erb-helper
 + linter-erb: https://atom.io/packages/linter-erb
 + linter-ruby: https://atom.io/packages/linter-ruby
-+ ruby-block-converter: 
++ ruby-block-converter: https://atom.io/themes/ruby-block-converter
 
 
-## Other Nice to have:
+### Nice to have for other languages:
 + atom-beautify: https://atom.io/packages/atom-beautify
 + atom-notifier: https://atom.io/packages/atom-notifier
 + browser-plus: https://atom.io/packages/browser-plus
@@ -52,6 +54,8 @@ dnf install atom
 + linter-ansible-linting: https://atom.io/packages/linter-ansible-linting
 + linter-shellcheck: https://atom.io/packages/linter-shellcheck
 
-## UI Theme &amp; Syntax Theme
+---------
+
+## My fav UI Theme &amp; Syntax Theme
 + atom-material-ui: https://atom.io/themes/atom-material-ui
 + seti-syntax: https://atom.io/themes/seti-syntax
