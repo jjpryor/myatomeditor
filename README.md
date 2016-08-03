@@ -1,4 +1,5 @@
 # My Atom Editor settings
+![Image of Shell](https://github.com/jjpryor/myatomeditor/raw/master/atomsyntaxcheck.png)
 ## Installation
 For Red Hat Family of OSs we will get the RPM for the Atom editor from a COPR:
 
